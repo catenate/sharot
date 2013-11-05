@@ -46,8 +46,9 @@ current player decides where to move the card.
 Play in its place."  Adjustment is never the highest-point card stack,
 because it does not play to a side until after the stack moves.
 
-"Fortune XI. Play on your side.  Each player passes a card stack clockwise."
-Fortune may move, because it plays before the stacks move.
+"Fortune XI. Play on your side.  Each player passes a card stack
+counter-clockwise." Fortune may move, because it plays before
+the stacks move.
 
 "Fortitude 3xXII.  Triple the point sum of this card stack."
 Sum the values of all the cards in the stack, then multiply.
@@ -72,11 +73,11 @@ other players.  Devil does not move, because it does not play
 until after stacks move.
 
 "Truth XVII.  Immediately play under a just-played card.
-Each other player clockwise replays that card." A replayed card
-added to a stack with Tower stops replaying.  A player may play
-Truth to replay other cards, and then use other cards to replay
-Truth, et cetera, only so long as it makes a difference in the
-card layout.
+Each other player counter-clockwise replays that card."
+A replayed card added to a stack with Tower stops replaying.
+A player may play Truth to replay other cards, and then use
+other cards to replay Truth, et cetera, only so long as it makes
+a difference in the card layout.
 
 "Tower XVIII.  This card stack does not move or replay or share."
 Tower and other cards in its stack may not be moved, passed,
@@ -101,15 +102,16 @@ as it makes a difference in the card layout.
 "Judgement XXII.  Play to a share.  The share’s players switch hand
 and position."  The simplest way to do this is to have the two players
 put face down their hand of cards on each side, then get up and
-sit in each other’s seats.
+sit in each other’s seats.  Play continues counter-clockwise from the
+hand that held Judgement, so the player who played Judgement might
+play again, in a different position and with a different hand.
 
 "Universe XXIII.  Replay all cards from a side.  Play this card on
 that side.  It does not move or replay." Play Universe after you
 replay all the other cards, so none of the replayed cards are played
 on Universe.  While the cards are replayed, the Universe card is
 effectively hidden.  Other cards may be moved or replayed from a
-stack containing Universe.
-	In general, do not move, replace, replay, or share Universe.
-Any other cards in Universe’s stack may be affected by a card,
-which would separate Universe from a card in his stack, or the
-remainder of his stack.
+stack containing Universe.  In general, do not move, replace, replay,
+or share Universe.  Any other cards in Universe’s stack may be
+affected by a card, which would separate Universe from a card in his
+stack, or the remainder of his stack.
