@@ -24,9 +24,11 @@ Tower and Universe.  In general, cards may join a stack with Tower
 or Universe.
 
 Play area.  In addition to a side for each player, the playing area
-consists of a shared area between each player, which makes the playing
-area complicated for 5 or more people.  I’m thinking of making it one
-shared area for all players if there are 5 or more players.
+for 2–4 players consists of a shared area between each player.
+This approach makes the playing area complicated for 5 or more people.
+In addition, smaller tables don’t well support a large number of sides.
+In these cases, play with one shared area between all players,
+and watch out for Lovers.
 
 Scoring.  Points count arcane knowledge, which leads to madness—
 the fewer points you have, the more sane you are.  All points on the
@@ -34,7 +36,7 @@ side of a player count towards a player’s score.  Half of the points
 on each of the areas shared with other players count towards a
 player’s score.  For one common area, in games of 5 or more players,
 the number of points in the share for each player is the total divided
-by the number of players, which I think would be the most complicated
+by the number of players, which should be the most complicated
 calculation in the game.
 
 Winner.  The goal is to have the least points at the end of the game,
