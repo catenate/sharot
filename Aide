@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Move content from catenate/notabene.'
+git commit -a -m 'Card back best viewed in a fixed-width unicode font.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
