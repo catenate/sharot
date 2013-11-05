@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Play counter-clockwise from start and after Judgement.'
+git commit -a -m 'Start play counter-clockwise, detail Hermit play.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
