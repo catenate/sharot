@@ -20,10 +20,13 @@ Emperor may share, because it plays before a card moves.
 their side cards." Their side cards are not moved to the shared area,
 so any card which moves away Lovers cancels the point sharing.
 
-"Intuition V.  Immediately play under a just-played card.  Cancel its
-effects, not its points."  Intuition cancels all the effects of any card.
-This includes the effects of cards which change point sums,
-so such cards are worth just their face point value.
+"Intuition V.  As a card plays, play on player’s side.  Cancel its
+effects, not its points—which play freely." Intuition cancels all the
+effects of any card as it plays.  This includes the effects of cards
+which change point sums, so such cards are worth just their face
+point value.  This nullifies restrictions on how the card may play,
+move, replay, or share.  To note that the card is only points, turn it
+upside down.
 
 "Priest VI.  Play on a share.  Move one card to another share."
 Priest may share, because it plays before a card moves.
@@ -35,24 +38,23 @@ its side." A card moves from a share to one of the sides it separates.
 its sides to the other."  Play the Chariot to the share between the
 source and destination sides.
 
-"Hermit VIIII.  In hand: your turn is next.  Each turn starts by moving
-this card to share or side with fewest points." The player dealt Hermit
-plays it as the first play of the game.  At the beginning of each turn,
-the card alone moves to the share or side with fewest points.  If more
+"Hermit VIIII.  In hand: your turn is next.  Each turn move this card
+to share or side with fewest points." The player dealt Hermit plays it
+as the first play of the game.  At the beginning of each turn, the
+card alone moves to the share or side with fewest points.  If more
 than one share or side has the same number of fewest points, then the
 current player decides where to move the card.
 
 "Adjustment X.  Move highest-point card stack to side with fewest points.
-Play in its place."  Adjustment is never the highest-point card stack,
-because it does not play to a side until after the stack moves.
+Play in its place."  Pick up Adjustment before counting points on each side.
 
-"Fortune XI. Play on your side.  Each player passes a card stack
+"Fortune XI. Play on your side.  Each player moves a card stack
 counter-clockwise." Fortune may move, because it plays before
 the stacks move.
 
-"Fortitude 3xXII.  Triple the point sum of this card stack."
+"Fortitude 2·XII.  Double the point sum of this card stack."
 Sum the values of all the cards in the stack, then multiply.
-Fortitude adds at least 36 points to the card stack it joins.
+Fortitude adds at least 24 points to the card stack it joins.
 
 "Traitor -XIII.  Negate the point sum of this card stack."
 Multiply the point sum of the card stack by -1.
@@ -79,7 +81,7 @@ A player may play Truth to replay other cards, and then use
 other cards to replay Truth, et cetera, only so long as it makes
 a difference in the card layout.
 
-"Tower XVIII.  This card stack does not move or replay or share."
+"Tower XVIII.  This card stack does not move, replay, or share."
 Tower and other cards in its stack may not be moved, passed,
 picked up, replaced, replayed, shared, et cetera, from a stack
 containing Tower.  All such cards may die, or have their effects
@@ -89,9 +91,9 @@ cancelled by Intuition as they are added to a stack containing Tower.
 Play on that share." Pick up all cards on the share.  Play Moon after
 you deal all the other cards, so do not shuffle or deal Moon.
 
-"Star 2xXX.  Double the point sum of this card stack."
-Sum the values of all the cards in the stack, then multiply.
-Star adds at least 40 points to the card stack it joins.
+"Star +XX.  Each turn, add one point per card to this share or side."
+Points added to a share or side remain with the share or side when
+cards move away.
 
 "Sun XXI.  Shuffle and deal a side’s cards to players’ hands.
 Play on that side." Pick up all cards on the side.  Play Sun after you
@@ -104,13 +106,15 @@ and position."  The simplest way to do this is to have the two players
 put face down their hand of cards on each side, then get up and
 sit in each other’s seats.  Play continues counter-clockwise from the
 hand that held Judgement, so the player who played Judgement might
-play again, in a different position and with a different hand.
+play again, in a different position and with a different hand.  If more
+than two players own the share, the player of Judgement chooses
+which two players switch.
 
 "Universe XXIII.  Replay all cards from a side.  Play this card on
-that side.  It does not move or replay." Play Universe after you
-replay all the other cards, so none of the replayed cards are played
-on Universe.  While the cards are replayed, the Universe card is
-effectively hidden.  Other cards may be moved or replayed from a
+that side.  It does not move, replay, or share." Play Universe after
+you replay all the other cards, so none of the replayed cards are
+played on Universe.  While the cards are replayed, the Universe card
+is effectively hidden.  Other cards may be moved or replayed from a
 stack containing Universe.  In general, do not move, replace, replay,
 or share Universe.  Any other cards in Universe’s stack may be
 affected by a card, which would separate Universe from a card in his

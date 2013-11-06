@@ -1,3 +1,6 @@
+“Each turn” effects happen at the beginning of the turn, in order by
+increasing card number.
+
 A “share” is an area of the table between a set (usually a pair)
 of players’ sides, and is under the control of its set of players.
 The points on a share are split evenly (round down) among its
