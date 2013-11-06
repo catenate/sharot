@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Star now adds points to its share or side.'
+git commit -a -m 'Split out credits.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
