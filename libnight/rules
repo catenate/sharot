@@ -40,8 +40,8 @@ arcane points in areas shared with one other player count towards a
 player’s score.  For one common area, in games of 5 or more players,
 the number of arcane points in the share which count towards each
 player is the total arcane points divided by the number of players
-(which should be the most complicated calculation in the game).  When
-you need to divide an odd number of points by 2, round down.
+(which should be the most complicated calculation in the game).
+When you need to divide an odd number of points by 2, round down.
 
 Winner.  The goal is to score the least points at the end of the game.
 If your score is less than zero, you actually retain a functioning mind—

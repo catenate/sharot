@@ -1,3 +1,8 @@
+A “card stack” is a set of cards played over top of each other so that
+the card name and points remain visible.  Effects which move a “card
+stack” move all cards in the stack.  Effects which move “one card”
+remove one particular card from the stack.
+
 “Each turn” effects happen at the beginning of the turn, in order by
 increasing card number.
 
