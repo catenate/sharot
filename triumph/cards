@@ -1,0 +1,56 @@
+"Excuses 0.  Nullify the effect and value of the card in play this
+card covers. Play this card out of turn to immediately prevent a
+card from having an effect and value as it is played." 
+
+"A slight of hand 1.  Move a card in play to your hand, replace with
+this card."
+
+"Famine 2.  Discard a card in play.  Replace with this card."
+
+"War 3.  Discard a card in play.  Replace with this card."
+
+"Pestilence 4.  Discard a card in play.  Replace with this card."
+
+"Death 5.  Discard a card in play.  Replace with this card."
+
+"Twain 6.  Duplicate effect and value of another card while both cards
+are in play.  Discard both cards together."
+
+"Move 7.  Move a card in play to another side.  Replace with this card."
+
+"Sword of Justice 8.  Move a card in play to the side of its last player,
+affecting this card on that player’s side.  Play this card out of turn
+to immediately redirect a play onto the player, affecting this card."
+	Reword to make affecting this card clearer.
+	Consider affecting any card on side.
+
+"Hide 9.  Move a card in play to the bottom of the draw.  Replace with
+this card."
+
+"Shuffle 10.  Discard this card and shuffle discarded cards into the draw."
+
+"Invictus 11.  Other cards do not affect this card, in or out of play."
+
+"Betray 12.  Discard a card in play and all attached cards.  Replace with
+this card."
+
+"Madness 13.  Replace a player’s hand with this card.  Discard the
+cards in the player’s hand, not those in play on the table."
+
+"Temper 14.  Cover a card in play, replacing its effect and value."
+
+"Bedevil 15.  Attach to a card in play to turn its value negative.
+This card is still positive."
+
+"Protect 16.  A card in play with this card attached is not affected
+by other cards.  This card is still affected."
+
+"Star 17.  Discard Moon and Sun from play."
+
+"Moon 18.  Discard Star and Sun from play."
+
+"Sun 19.  Discard Star and Moon from play."
+
+"Fame 20.  Discard this card to move a discarded card to your hand."
+
+"Misery 21.  Discard this card, and the highest-value card on each side."
