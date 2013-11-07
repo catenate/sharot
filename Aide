@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Split out credits.'
+git commit -a -m 'Only count X and V points, and each group of 5 or 10 points on a side or share.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
