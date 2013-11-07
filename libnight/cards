@@ -39,25 +39,27 @@ its sides to the other."  Play the Chariot to the share between the
 source and destination sides.
 
 "Hermit VIIII.  In hand: your turn is next.  Each turn move this card
-to share or side with fewest points." The player dealt Hermit plays it
-as the first play of the game.  At the beginning of each turn, the
-card alone moves to the share or side with fewest points.  If more
-than one share or side has the same number of fewest points, then the
-current player decides where to move the card.
+to share or side with fewest arcane points." The player dealt Hermit
+plays it as the first play of the game.  At the beginning of each turn,
+the card alone moves to the share or side with fewest arcane points.
+If more than one share or side has identically fewest arcane points,
+then the current player decides where to move the card.
 
-"Adjustment X.  Move highest-point card stack to side with fewest points.
-Play in its place."  Pick up Adjustment before counting points on each side.
+"Adjustment X. Move highest-point card stack to side with fewest
+arcane points.  Play in its place." Pick up Adjustment before counting
+points on each side.
 
 "Fortune XI. Play on your side.  Each player moves a card stack
-counter-clockwise." Fortune may move, because it plays before
+counter-clockwise."  Fortune may move, because it plays before
 the stacks move.
 
 "Fortitude 2·XII.  Double the point sum of this card stack."
 Sum the values of all the cards in the stack, then multiply.
-Fortitude adds at least 24 points to the card stack it joins.
+Fortitude adds at least 20 arcane points to the card stack it joins.
 
 "Traitor -XIII.  Negate the point sum of this card stack."
-Multiply the point sum of the card stack by -1.
+Multiply the point sum of the card stack by -1.  Its negative arcane
+points subtract from the sum of arcane points on its share or side.
 
 "Temperance XIIII.  Play on a side.  Move a card stack from that side
 to each of its shares."  Share only as many card stacks as there are

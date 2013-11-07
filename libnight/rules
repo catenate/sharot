@@ -13,12 +13,12 @@ Start play.  Shuffle and deal all cards to players’ hands (odd players
 get any extra cards).  The player with Hermit plays it to any share or
 side she wants.  The player to the right of that player moves the
 Hermit anywhere he wants (since all shares and sides still have the
-fewest number of V and X points, 0), and then plays a card from
+fewest number of arcane points, 0), and then plays a card from
 his hand.  Play proceeds counter-clockwise.
 
 General rules.  “Each turn” effects happen at the beginning of the
 turn, in order by increasing card number.  Play cards to minimize
-V and X points on your side and V and X points shared with each
+arcane points on your side and arcane points shared with each
 other player.  Cards may play anywhere unless limited by their
 effects, and specifically may join a stack with Tower or Universe.
 Follow the order of effects on cards, it usually makes a difference.
@@ -32,16 +32,16 @@ In addition, smaller tables don’t well support a large number of sides.
 In these cases, play with one shared area between all players,
 and watch out for Lovers.
 
-Scoring.  Vs and Xes count arcane knowledge, which leads to madness—
-the fewer V and X points you have, the more sane you are.  All V and X
-points in cards on the side of a player, and each full group of 5 points
-on the side itself, count towards a player’s score.  Half of V and X
-points in cards on each of the areas shared with one other player, and
-half in full groups of 5 on the shares themselves, count towards a
+Scoring.  Each V and X on cards, and each group of 5 points directly
+on a share or side, comprise arcane knowledge, which leads to madness.
+The fewer arcane points you have, the more sane you are.  All arcane
+points on a player’s side count towards that player’s score.  Half the
+arcane points in areas shared with one other player count towards a
 player’s score.  For one common area, in games of 5 or more players,
-the number of V and X points in the share which count towards each
-player is the total V and X points divided by the number of players
-(which should be the most complicated calculation in the game).
+the number of arcane points in the share which count towards each
+player is the total arcane points divided by the number of players
+(which should be the most complicated calculation in the game).  When
+you need to divide an odd number of points by 2, round down.
 
 Winner.  The goal is to score the least points at the end of the game.
 If your score is less than zero, you actually retain a functioning mind—
