@@ -1,13 +1,36 @@
+Font /fonts/10646/9x15/9x15.font
+
+Card front.
+
+	Temperance XVIIII
+
+
+
+
+	      [art]     
+
+
+
+
+	Card effect text.
+	Card effect text.
+	Card effect text.
+
 Card back.
-[Font /fonts/10646/9x15/9x15.font]
+	
+	       ┊
+	 •     ┊     •
+	       ┊
 
-	•   ┊   •
+	      ╲ ╱
+	┄┄┄    ╳    ┄┄┄
+	      ╱ ╲
 
-	┄   ╳   ┄
+	       ┊
+	 •     ┊     •
+	       ┊
 
-	•   ┊   •
-
-	  Sharot
+	  S h a r o t
 
 Fool.  A student with a lantern in a dark library.  Cartoon style.
 
