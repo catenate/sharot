@@ -5,3 +5,46 @@ deck not held by players should play itself.
 Since there is hidden information (the cards in players’ hands), and
 cards go in and out of players’ hands during the game, I’m not sure
 how well that would translate to remote play.
+
+Instead of shares and sides around players, another way to arrange the
+cards is all in a row of card stacks, with markers to indicate which
+players count the cards in the stack.  To score, divide the number of
+arcane points in each stack by the number of players who count it.
+
+Each release in the series could be another themed set of tarot.
+With the same back, users can mix and match one card of each
+point value from one of the sets, 24 cards total representing all
+point values.  In this approach each release is a self-contained game,
+which requires new and interesting card effects for each card.
+(Keep notes on early variations for further development.)
+Card effects in expansion sets can explore different aspects of the
+archetype at each point value; develop antitheses in tarot imagery;
+implement mechanisms from processes in themes, items, and
+characters; break rules established in earlier sets; and expand types
+of gameplay.
+
+Expansion card examples:
+each turn Fugitive 0/XXIIII moves to the side with the most arcane points;
+I
+Famine II removes one point each turn from each side and share;
+War III visits each side and share counter-clockwise and isolates a card from a stack;
+IV
+V
+Pestilence VI adds one point each turn to each side and share;
+Death VII visits each side and share counter-clockwise and kills a card;
+VIII
+VIIII
+Justice X temporarily becomes another copy of the card it plays on;
+Wheel XI shuffles and deals all cards in hands;
+Turpitude XII triples point sum of this card stack;
+Thief XIII plays on your side immediately after a card plays to take that card into your hand;
+Intemperance XIIII plays now all remaning cards in player’s hand;
+Scythe XV kills a card stack;
+XVI
+Lie XVII cancels another card as it plays;
+Lightning XVIII cancels Tower effect while on same side;
+Luna XVIIII collects one point per turn from each other share and side to this one;
+Algol XX adds one point each turn for each V or X on this share or side;
+Sol XXI distributes one point per turn from this share or side to each other;
+Resurrect XXII resurrects a(ll) dead cards, plays on player’s side;
+World XXIII replays one card from each side, plays on player’s side;
