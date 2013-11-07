@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Define card stack in relation to effects on one card.'
+git commit -a -m 'Groups of 5 points are arcane.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
