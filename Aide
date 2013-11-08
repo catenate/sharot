@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'Expansion deserves its own file to collect ideas.'
+git commit -a -m 'Rework card file layout.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q

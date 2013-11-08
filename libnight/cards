@@ -1,49 +1,15 @@
-"Fool.  x0 This card stack has no point sum.  XXIIII This card alone."
-When played as part of a card stack, multiply the point sum of the
-card stack by zero.  When played alone, on any side or share,
-its point value is 24.  This means that it can’t be combined with
-any other cards and keep its value of 24.
+../cards/curious
+../cards/abdulhazrat
+../cards/keziahmason
+../cards/neanderthal
+../cards/marriage
+../cards/mercy
+../cards/blackman
+../cards/innsmouth
+../cards/eldersign
+../cards/outsider
 
-"Magus I.  Play this card in place of another.  Replay that card."
-A player may play Magus to replay other cards, and then use
-other cards to replay Magus, et cetera, only so long as it makes
-a difference in the card layout.
 
-"Priestess II.  Move one card from one side to another.  Play in
-its place."
-
-"Emperor III.  Play on a side.  Share one card from that side."
-Move a card from a side into one of the side’s shares.
-Emperor may share, because it plays before a card moves.
-
-"Lovers =IIII.  Share between two players.  They share points of
-their side cards." Their side cards are not moved to the shared area,
-so any card which moves away Lovers cancels the point sharing.
-
-"Intuition V.  As a card plays, play on player’s side.  Cancel its
-effects, not its points—which play freely." Intuition cancels all the
-effects of any card as it plays.  This includes the effects of cards
-which change point sums, so such cards are worth just their face
-point value.  This nullifies restrictions on how the card may play,
-move, replay, or share.  To note that the card is only points, turn it
-upside down.
-
-"Priest VI.  Play on a share.  Move one card to another share."
-Priest may share, because it plays before a card moves.
-
-"Empress VII.  Play on a share.  Move one card from that share to
-its side." A card moves from a share to one of the sides it separates.
-
-"Chariot VIII.  Play in any share.  Move a card stack from one of
-its sides to the other."  Play the Chariot to the share between the
-source and destination sides.
-
-"Hermit VIIII.  In hand: your turn is next.  EACH TURN move this card
-to share or side with fewest arcane points." The player dealt Hermit
-plays it as the first play of the game.  At the beginning of each turn,
-the card alone moves to the share or side with fewest arcane points.
-If more than one share or side has identically fewest arcane points,
-then the current player decides where to move the card.
 
 "Adjustment X. Move highest-point card stack to side with fewest
 arcane points.  Play in its place." Pick up Adjustment before counting
