@@ -4,33 +4,33 @@ Magus
 Priestess
 Emperor
 Lovers
-Intuition
+Mercy
 Priest
 Empress
 Chariot
 Hermit
-Adjustment
+Justice
 Fortune
 Fortitude
 Traitor
 Temperance
 Death
 Devil
-Truth
+Severity
 Tower
 Moon
 Star
 Sun
 Judgement
-Universe
+World
 
-Cards grouped by function.  Fool, Lovers, Fortitude, Traitor, and Star
-change point sums, which affects Tower, its stack, and Universe.
-Magus, Priestess, Emperor, Priest, Empress, Hermit, and Truth
+Cards grouped by function.  Fool, Lovers, Fortitude, Traitor, and
+Star change point sums, which affects Tower, its stack, and World.
+Magus, Priestess, Emperor, Priest, Empress, Hermit, and Severity
 move, replay, or share one card, which do not affect Tower, a card in
-its stack, and Universe.  Intuition and Death unplay a card, which
-does affect Tower, a card in its stack, and Universe.  Moon, Sun, and
-Universe distribute or replay card stacks.  Chariot, Adjustment,
-Fortune, Temperance, and Devil move card stacks, which do not affect
-Tower, its stack, or Universe (but may move its stack away from it).
-Tower halts a card stack.  Judgement changes player sides.
+its stack, and World.  Mercy and Death unplay a card, which does
+affect Tower, a card in its stack, and World.  Death does not affect Truth.
+Moon, Sun, and World distribute or replay card stacks.  Chariot,
+Adjustment, Fortune, Temperance, and Devil move card stacks, which do
+not affect Tower, its stack, or World (but may move its stack away
+from it).  Tower halts a card stack.  Judgement changes player sides.

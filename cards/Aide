@@ -1,5 +1,7 @@
 Edit ,|sort|uniq
 New around
-apply {file=$1; (name points) = `{sed -n 1p $file}; echo $points '	' $name '	' $file} `{ls [a-z]*} | sort
+Edit B < grep -l '^Fool' [a-z]*
+apply {file=$1; (name points) = `{sed -n 1p $file}; echo $points '	' $name '	' $file} `{ls [a-z]*} | sort > Pindex
+grep 'difference' *
 ls -F | mc
-mv fugitive fanboy
+mv  remains recover
