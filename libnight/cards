@@ -8,82 +8,17 @@
 ../cards/innsmouth
 ../cards/eldersign
 ../cards/outsider
-
-
-
-"Adjustment X. Move highest-point card stack to side with fewest
-arcane points.  Play in its place." Pick up Adjustment before counting
-points on each side.
-
-"Fortune XI. Play on your side.  Each player moves a card stack
-counter-clockwise."  Fortune may move, because it plays before
-the stacks move.
-
-"Fortitude 2·XII.  Double the point sum of this card stack."
-Sum the values of all the cards in the stack, then multiply.
-Fortitude adds at least 20 arcane points to the card stack it joins.
-
-"Traitor -XIII.  Negate the point sum of this card stack."
-Multiply the point sum of the card stack by -1.  Its negative arcane
-points subtract from the sum of arcane points on its share or side.
-
-"Temperance XIIII.  Play on a side.  Move a card stack from that side
-to each of its shares."  Share only as many card stacks as there are
-other players.  Temperance may share, because it plays before
-stacks move.
-
-"Death XV.  Remove a card from play.  Play in its place."
-This card affects Tower and Universe, and other cards in their stacks.
-Death removes the card entirely from play, so its effects and points
-no longer affect the game.
-
-"Devil XVI.  Move a card stack to each other side from a side.
-Play on that side." Move only as many card stacks as there are
-other players.  Devil does not move, because it does not play
-until after stacks move.
-
-"Truth XVII.  Immediately play under a just-played card.
-Each other player counter-clockwise replays that card."
-A replayed card added to a stack with Tower stops replaying.
-A player may play Truth to replay other cards, and then use
-other cards to replay Truth, et cetera, only so long as it makes
-a difference in the card layout.
-
-"Tower XVIII.  This card stack does not move, replay, or share."
-Tower and other cards in its stack may not be moved, passed,
-picked up, replaced, replayed, shared, et cetera, from a stack
-containing Tower.  All such cards may die, or have their effects
-cancelled by Intuition as they are added to a stack containing Tower.
-
-"Moon XVIIII.  Shuffle and deal a share’s cards to players’ hands.
-Play on that share." Pick up all cards on the share.  Play Moon after
-you deal all the other cards, so do not shuffle or deal Moon.
-
-"Star +XX.  EACH TURN add one point per card to this share or side.
-Groups of 5 points are arcane." Points added to a share or side remain
-with the share or side when cards move away.
-
-"Sun XXI.  Shuffle and deal a side’s cards to players’ hands.
-Play on that side." Pick up all cards on the side.  Play Sun after you
-distribute all the other cards.  A player may play Sun to replay other
-cards, and then use other cards to replay Sun, et cetera, only so long
-as it makes a difference in the card layout.
-
-"Judgement XXII.  Play to a share.  The share’s players switch hand
-and position."  The simplest way to do this is to have the two players
-put face down their hand of cards on each side, then get up and
-sit in each other’s seats.  Play continues counter-clockwise from the
-hand that held Judgement, so the player who played Judgement might
-play again, in a different position and with a different hand.  If more
-than two players own the share, the player of Judgement chooses
-which two players switch.
-
-"Universe XXIII.  Replay all cards from a side.  Play this card on
-that side.  It does not move, replay, or share." Play Universe after
-you replay all the other cards, so none of the replayed cards are
-played on Universe.  While the cards are replayed, the Universe card
-is effectively hidden.  Other cards may be moved or replayed from a
-stack containing Universe.  In general, do not move, replace, replay,
-or share Universe.  Any other cards in Universe’s stack may be
-affected by a card, which would separate Universe from a card in his
-stack, or the remainder of his stack.
+../cards/adjustment
+../cards/calend
+../cards/moar
+../cards/flee
+../cards/kinginyellow
+../cards/drownedgiant
+../cards/cthulhu
+../cards/palebluedot
+../cards/obelisk
+../cards/tidalgrowth
+../cards/oldgodsign
+../cards/desolate
+../cards/submit
+../cards/ney
