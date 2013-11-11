@@ -1,18 +1,22 @@
 0·/XXIIII 	 Fool 	 curious
 0·/XXIIII 	 Fool 	 fanboy
 I 	 Magus 	 abdulhazrat
-II 	 Priestess 	 famine
 II 	 Priestess 	 keziahmason
+II + 	 Priestess 	 fewestmore
+II - 	 Priestess 	 famine
 III 	 Emperor 	 neanderthal
 III 	 Emperor 	 war
+III - 	 Emperor 	 fewestless
 IIII 	 Lovers 	 exchange
-IIII= 	 Lovers 	 marriage
+IIII = 	 Lovers 	 marriage
 V 	 Mercy 	 excuse
 V 	 Mercy 	 knownoevil
 VI 	 Priest 	 blackman
-VI 	 Priest 	 pestilence
+VI + 	 Priest 	 mostmore
+VI + 	 Priest 	 pestilence
 VII 	 Empress 	 death
 VII 	 Empress 	 innsmouth
+VII - 	 Empress 	 mostless
 VIII 	 Chariot 	 eldersign
 VIIII 	 Hermit 	 anchorite
 VIIII 	 Hermit 	 outsider
@@ -21,8 +25,9 @@ X 	 Justice 	 clone
 XI 	 Fortune 	 calend
 XI 	 Fortune 	 die
 XI 	 Fortune 	 tornado
-XII 	 Fortitude 	 turpitude
 XII ·2 	 Fortitude 	 moar
+XII ·3 	 Fortitude 	 turpitude
+XII ·4 	 Fortitude 	 fortitude
 XIII 	 Traitor 	 thief
 XIII- 	 Traitor 	 flee
 XIIII 	 Temperance 	 intemperance
@@ -33,12 +38,13 @@ XVI 	 Devil 	 cthulhu
 XVII 	 Severity 	 recover
 XVIII 	 Tower 	 lightning
 XVIII 	 Tower 	 obelisk
+XVIIII 	 Moon 	 berserker
 XVIIII 	 Moon 	 tidalgrowth
-XVIIII+ 	 Moon 	 luna
-XX+ 	 Star 	 algol
-XX+ 	 Star 	 oldgodsign
+XVIIII + 	 Moon 	 luna
+XX + 	 Star 	 algol
+XX + 	 Star 	 oldgodsign
 XXI 	 Sun 	 desolate
-XXI- 	 Sun 	 sol
+XXI - 	 Sun 	 sol
 XXII 	 Judgement 	 resurrect
 XXII 	 Judgement 	 submit
 XXIII 	 World 	 around
