@@ -5,7 +5,7 @@ II 	 Priestess 	 keziahmason
 II + 	 Priestess 	 fewestmore
 II - 	 Priestess 	 famine
 III 	 Emperor 	 neanderthal
-III 	 Emperor 	 war
+III 	 Emperor 	 payshare
 III - 	 Emperor 	 fewestless
 IIII 	 Lovers 	 exchange
 IIII = 	 Lovers 	 marriage
@@ -14,10 +14,11 @@ V 	 Mercy 	 knownoevil
 VI 	 Priest 	 blackman
 VI + 	 Priest 	 mostmore
 VI + 	 Priest 	 pestilence
-VII 	 Empress 	 death
 VII 	 Empress 	 innsmouth
+VII 	 Empress 	 payside
 VII - 	 Empress 	 mostless
 VIII 	 Chariot 	 eldersign
+VIII 	 Chariot 	 war
 VIIII 	 Hermit 	 anchorite
 VIIII 	 Hermit 	 outsider
 X 	 Justice 	 adjustment
@@ -32,6 +33,7 @@ XIII 	 Traitor 	 thief
 XIII- 	 Traitor 	 flee
 XIIII 	 Temperance 	 intemperance
 XIIII 	 Temperance 	 kinginyellow
+XV 	 Death 	 death
 XV 	 Death 	 drownedgiant
 XV 	 Death 	 scythe
 XVI 	 Devil 	 cthulhu
