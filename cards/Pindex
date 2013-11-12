@@ -1,54 +1,81 @@
-0·/XXIIII 	 Fool 	 curious
-0·/XXIIII 	 Fool 	 fanboy
 I 	 Magus 	 abdulhazrat
+I 	 Magus 	 playtower
+I 	 Magus 	 recompense
 II 	 Priestess 	 keziahmason
+II 	 Priestess 	 playpriest
 II + 	 Priestess 	 fewestmore
 II - 	 Priestess 	 famine
 III 	 Emperor 	 neanderthal
 III 	 Emperor 	 payshare
+III 	 Emperor 	 playpriestess
 III - 	 Emperor 	 fewestless
 IIII 	 Lovers 	 exchange
+IIII 	 Lovers 	 playtemperance
 IIII = 	 Lovers 	 marriage
 V 	 Mercy 	 excuse
 V 	 Mercy 	 knownoevil
+V 	 Mercy 	 playlovers
 VI 	 Priest 	 blackman
+VI 	 Priest 	 playempress
 VI + 	 Priest 	 mostmore
 VI + 	 Priest 	 pestilence
 VII 	 Empress 	 innsmouth
 VII 	 Empress 	 payside
+VII 	 Empress 	 playemperor
 VII - 	 Empress 	 mostless
 VIII 	 Chariot 	 eldersign
+VIII 	 Chariot 	 playtraitor
 VIII 	 Chariot 	 war
 VIIII 	 Hermit 	 anchorite
 VIIII 	 Hermit 	 outsider
+VIIII 	 Hermit 	 playfool
 X 	 Justice 	 adjustment
 X 	 Justice 	 clone
+X 	 Justice 	 playseverity
 XI 	 Fortune 	 calend
 XI 	 Fortune 	 die
+XI 	 Fortune 	 playmoon
 XI 	 Fortune 	 tornado
+XII 	 Fortitude 	 playchariot
 XII ·2 	 Fortitude 	 moar
 XII ·3 	 Fortitude 	 turpitude
 XII ·4 	 Fortitude 	 fortitude
+XIII 	 Traitor 	 playdeath
 XIII 	 Traitor 	 thief
 XIII - 	 Traitor 	 flee
 XIIII 	 Temperance 	 intemperance
 XIIII 	 Temperance 	 kinginyellow
+XIIII 	 Temperance 	 playmercy
 XV 	 Death 	 death
 XV 	 Death 	 drownedgiant
+XV 	 Death 	 playdevil
 XV 	 Death 	 scythe
 XVI 	 Devil 	 cthulhu
+XVI 	 Devil 	 playfortitude
+XVI 	 Devil 	 sharedpain
+XVII 	 Severity 	 playjudgement
 XVII 	 Severity 	 recover
+XVII 	 Severity 	 replays
 XVIII 	 Tower 	 lightning
 XVIII 	 Tower 	 obelisk
+XVIII 	 Tower 	 playhermit
 XVIIII 	 Moon 	 berserker
+XVIIII 	 Moon 	 playworld
 XVIIII 	 Moon 	 tidalgrowth
 XVIIII + 	 Moon 	 luna
+XX 	 Star 	 playfortune
 XX + 	 Star 	 algol
 XX + 	 Star 	 oldgodsign
 XXI 	 Sun 	 desolate
+XXI 	 Sun 	 playstar
 XXI - 	 Sun 	 sol
+XXII 	 Judgement 	 playjustice
 XXII 	 Judgement 	 resurrect
 XXII 	 Judgement 	 submit
 XXIII 	 World 	 around
 XXIII 	 World 	 ney
 XXIII 	 World 	 palebluedot
+XXIII 	 World 	 playsun
+XXIIII 	 Fool 	 fanboy
+XXIIII 	 Fool 	 playmagus
+XXIIII/0· 	 Fool 	 curious

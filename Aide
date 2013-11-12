@@ -4,7 +4,7 @@ du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add .
-git commit -a -m 'For want of a space.'
+git commit -a -m 'Three expansion mechanic themes: libnight moves cards around, starred manipulates points on sides and shares, plaything calls other cards.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
