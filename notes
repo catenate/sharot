@@ -5,8 +5,3 @@ deck not held by players should play itself.
 Since there is hidden information (the cards in players’ hands), and
 cards go in and out of players’ hands during the game, I’m not sure
 how well that would translate to remote play.
-
-Instead of shares and sides around players, another way to arrange the
-cards is all in a row of card stacks, with markers to indicate which
-players count the cards in the stack.  To score, divide the number of
-arcane points in each stack by the number of players who count it.

@@ -1,0 +1,17 @@
+Each turn.  “Each turn” effects happen at the beginning of the turn,
+in order by increasing card number.
+
+Tactics.  Play cards to (as of the end of the game) minimize arcane
+points on your side and minimize arcane points shared with each
+other player.
+
+Play effects.  Cards may play anywhere unless limited by their
+effects, and specifically may join a stack with effects which limit
+move, replay, or share.  Play as many effects as you can; a card may
+play with no effect.  Follow the order of effects on cards, it usually
+makes a difference.
+
+Stacks.  Cards which affect only one card may attempt to affect a
+single card in a stack, and be prevented by effects which limit move,
+replay, or share.  If a card plays in place of another, and that card
+cannot move, the playing card joins its card stack.
