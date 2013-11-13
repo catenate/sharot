@@ -6,5 +6,5 @@ Edit s,play,,gNew around
 apply {file=$1; (name points) = `{sed -n 1p $file}; echo $points '	' $name '	' $file} `{ls [a-z]*} | sort > Pindex
 grep 'difference' *
 ls -F | mc
-mv  remains recover
+mv  library research
 touch fool magus priestess priest emperor empress mercy lovers chariot hermit justice fortune fortitude traitor temperance death devil severity tower moon star sun judgement world
