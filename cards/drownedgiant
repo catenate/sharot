@@ -1,12 +1,14 @@
 Death	XV
 
-[Watercolor style: The drowned giant of J.G.  Ballard, in the style of
+[Watercolor style: The drowned giant of J.G. Ballard, in the style of
 the hollow giant in Bosch’s triptych “The Garden of Earthly Delights”.
 https://en.wikipedia.org/wiki/File:Bosch_Jardin_des_delices_detail.jpg]
 
-Remove a card from play.  Play in its place.
+Remove a card from play.  Also reduce points on side or share by
+card’s points.  Play in its place.
 
 
 This card affects Tower and Universe, and other cards in their stacks.
 Death removes the card entirely from play, so its effects and points
-no longer affect the game.
+no longer affect the game.  In addition, subtract the point value of
+the card from the number of points on its share or side.
