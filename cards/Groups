@@ -1,29 +1,3 @@
-All cards.
-Fool
-Magus
-Priestess
-Emperor
-Lovers
-Mercy
-Priest
-Empress
-Chariot
-Hermit
-Justice
-Fortune
-Fortitude
-Traitor
-Temperance
-Death
-Devil
-Severity
-Tower
-Moon
-Star
-Sun
-Judgement
-World
-
 Cards grouped by function.  Fool, Lovers, Fortitude, Traitor, and
 Star change point sums, which affects Tower, its stack, and World.
 Magus, Priestess, Emperor, Priest, Empress, Hermit, and Severity
@@ -34,11 +8,4 @@ Moon, Sun, and World distribute or replay card stacks.  Chariot,
 Adjustment, Fortune, Temperance, and Devil move card stacks, which do
 not affect Tower, its stack, or World (but may move its stack away
 from it).  Tower halts a card stack.  Judgement changes player sides.
-
-Cards in play* expansion.  Mix a subset with other sets.
-Fool → Magus → Tower → Hermit → 
-Priestess → Priest → Empress → Emperor → 
-Lovers → Temperance → Mercy → 
-Chariot  → Traitor → Death → Devil → Fortitude → 
-Justice → Severity → Judgement → 
-Fortune → Moon → World → Sun → Star → 
+New expansion
