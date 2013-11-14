@@ -34,6 +34,7 @@ X 	 Justice 	 clone
 X 	 Justice 	 playseverity
 XI 	 Fortune 	 calend
 XI 	 Fortune 	 die
+XI 	 Fortune 	 dieharder
 XI 	 Fortune 	 playmoon
 XI 	 Fortune 	 tornado
 XII 	 Fortitude 	 playchariot
@@ -65,8 +66,10 @@ XVIIII 	 Moon 	 tidalgrowth
 XX 	 Star 	 playfortune
 XX + 	 Star 	 algol
 XX + 	 Star 	 oldgodsign
+XX + 	 Star 	 source
 XXI 	 Sun 	 desolate
 XXI 	 Sun 	 playstar
+XXI - 	 Sun 	 sink
 XXI - 	 Sun 	 sol
 XXII 	 Judgement 	 playjustice
 XXII 	 Judgement 	 resurrect
@@ -77,4 +80,4 @@ XXIII 	 World 	 palebluedot
 XXIII 	 World 	 playsun
 XXIIII 	 Fool 	 fanboy
 XXIIII 	 Fool 	 playmagus
-XXIIII/0· 	 Fool 	 curious
+XXIIII / 0· 	 Fool 	 curious
