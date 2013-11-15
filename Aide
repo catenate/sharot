@@ -6,7 +6,7 @@ du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add Aide
 git add .
-git commit -a -m 'Flesh out a few point-distribution cards.'
+git commit -a -m 'Lovers breaks the game with only two players, takes two players out of the game if there’s more than two.  Change first-set lovers effect to instead dump points of cards on each other side.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q

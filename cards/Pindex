@@ -1,7 +1,7 @@
-I 	 Magus 	 abdulhazrat
-I 	 Magus 	 buriedsecret
-I 	 Magus 	 playtower
-I 	 Magus 	 recompense
+I 	 Master 	 buriedsecret
+I 	 Master 	 playtower
+I 	 Master 	 recompense
+I 	 Master 	 replay
 II 	 Priestess 	 keziahmason
 II 	 Priestess 	 playpriest
 II + 	 Priestess 	 fewestmore
@@ -11,6 +11,7 @@ III 	 Emperor 	 payshare
 III 	 Emperor 	 playpriestess
 III - 	 Emperor 	 fewestless
 IIII 	 Lovers 	 exchange
+IIII 	 Lovers 	 honeymoon
 IIII 	 Lovers 	 playtemperance
 IIII = 	 Lovers 	 marriage
 V 	 Mercy 	 excuse
