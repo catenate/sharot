@@ -1,11 +1,9 @@
-Cards grouped by function.  Fool, Lovers, Fortitude, Traitor, and
-Star change point sums, which affects Tower, its stack, and World.
-Magus, Priestess, Emperor, Priest, Empress, Hermit, and Severity
-move, replay, or share one card, which do not affect Tower, a card in
-its stack, and World.  Mercy and Death unplay a card, which does
-affect Tower, a card in its stack, and World.  Death does not affect Truth.
-Moon, Sun, and World distribute or replay card stacks.  Chariot,
-Adjustment, Fortune, Temperance, and Devil move card stacks, which do
-not affect Tower, its stack, or World (but may move its stack away
-from it).  Tower halts a card stack.  Judgement changes player sides.
-New expansion
+Cards grouped by function.  Cards which change point sums affect cards
+which stop move, replay, or share.  Cards which move, replay, or share
+one card do not affect cards which stop move, replay, or share.  Cards
+which unplay a card does affect cards which stop move, replay, or
+share.  Death does not affect Truth.  Moon, Sun, and World distribute
+or replay card stacks.  Chariot, Adjustment, Fortune, Temperance, and
+Devil move card stacks, which do not affect Tower, its stack, or World
+(but may move its stack away from it).  Tower halts a card stack.
+Judgement changes player sides.  New expansion

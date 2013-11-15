@@ -4,6 +4,7 @@ du -n | grep -v '^\.git'
 du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
+git add Aide
 git add .
 git commit -a -m 'Flesh out a few point-distribution cards.'
 git diff
