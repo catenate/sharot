@@ -156,3 +156,297 @@ Winner.  The goal is to score the least points at the end of the game.
 If your score is less than zero, you actually retain a functioning mind—
 congratulations, you’ll notice when it’s eaten by your alien overlords!
 
+
+Master	I
+
+[An opened grave.]
+
+Put a card from your hand face down under this card.  It flips and
+enters play when uncovered.
+
+The face-down card is considered out of play until Magus is no longer
+covering the card.  At that point turn it face up, and it enters play
+as if played on that share or side.  Immediate effects and just-played
+effects may be used as it enters and finishes play.
+
+
+Priestess	II
+
+[Woodblock style.  Keziah Mason: Obviously completely insane hag,
+wearing plain homespun clothes of Salem at the time of the witch trials.
+In a goal smearing an undefined red substance on the walls, not blood.
+The geometry of the corner of the cell is wrong, somehow.]
+
+Move one card from one side to another.  Play in its place.
+
+
+Emperor	III
+
+[Daguerreotype style.  Neanderthal look: As subtle as possible,
+while being undeniable that the face is wrong.]
+
+Play on a side.  Share one card from that side.
+
+Move a card from a side into one of the side’s shares.
+Emperor may share, because it plays before a card moves.
+
+
+Lovers	IIII
+
+[Daguerreotype style.  Dirty-clawed hairy hand tenderly holding webbed
+slimy hand.]
+
+Play on a share to affect two sides.  Add to each side the number of
+points on cards on the other side.
+
+
+Mercy	V
+
+[Cartoon style.  Student with hands over ears, closed eyes and mouth.]
+
+As a card plays, play on that player’s side.  Cancel its effects,
+not its points—which play freely.
+
+Mercy cancels all the effects of any card as it plays.
+This includes the effects of cards which change point sums,
+so such cards are worth just their face point value.  This nullifies
+restrictions on how the card may play, move, replay, or share.
+To note that the card is only points, turn it upside down.
+
+
+Priest	VI
+
+[Woodblock style.  The Black Man: Caucasian, blackened skin, heavy
+rough black monk’s robe.]
+
+Play on a share.  Move one card to another share.
+
+Priest may share, because he plays before a card moves.
+
+
+Empress	VII
+
+[Daguerreotype style.  Innsmouth look: As subtle as possible,
+while being undeniable that the face is wrong.]
+
+Play on a share.  Move one card from that share to its side.
+
+A card moves from a share to one of the sides it separates.
+
+
+Chariot	VIII
+
+[Photographic.  Elder sign from badger hoodie.  Worn, tarnished,
+ancient metal badge style, on a worn leather background.]
+
+Play in any share.  Move a card stack from one of its sides to the other.
+
+Play the Chariot to the share between the source and destination sides.
+
+
+Hermit	VIIII
+
+[Outsider: I have a photo of a child's green tattered zombie costume
+lurching toward the camera.]
+
+In hand: your turn is next.  EACH TURN move this card
+to share or side with fewest arcane points.
+
+The player dealt Hermit plays it as the first play of the game.
+At the beginning of each turn, pick up Hermit before counting points
+on each side.  The card alone moves to the share or side with fewest
+arcane points.  If more than one share or side has identically fewest
+arcane points, then the current player decides where to move the card.
+
+
+Justice	X
+
+[Cartoon style.  Three students force open books at the fourth.]
+
+Move highest-point card stack to side with fewest arcane points.
+Play in its place.
+
+Pick up Justice before counting points on each side.
+If the highest-point card stack may not move, Justice joins it.
+
+
+Fortune	XI
+
+[Photograph.  Aztec calendar stone.]
+
+Play on your side.  Each player moves a card stack counter-clockwise.
+
+Fortune may move, because it plays before stacks move.
+
+
+Fortitude	XII ·2
+
+[Cartoon style.  A manic student reaching from a pile of books
+for another.]
+
+Double the point sum of this card stack.
+
+Sum the values of all the cards in the stack, then multiply.
+Fortitude adds at least 24 arcane points to the card stack it joins.
+
+
+Traitor	XIII -
+
+[Cartoon style.  Student climbing out a high library window.]
+
+Negate the point sum of this card stack.
+
+Multiply the point sum of the card stack by -1.  Its negative arcane
+points subtract from the sum of arcane points on its share or side.
+
+
+Temperance	XIIII
+
+[The king in yellow: Seven layers of tattered bright yellow rags
+falling in disarray from a thin, hunched figure wearing a silken,
+smooth and featureless, pallid mask.  Photographic: A doll wearing
+treated fabric, against the background of a fluted granite column
+(just an idea, not especially convinced of it).]
+
+Play on a side.  Move a card stack from that side to each of
+its shares.
+
+Share only as many card stacks as there are other players.
+Temperance may share, because it plays before stacks move.
+
+
+Death	XV
+
+[Watercolor style: The drowned giant of J.G. Ballard, in the style of
+the hollow giant in Bosch’s triptych “The Garden of Earthly Delights”.
+https://en.wikipedia.org/wiki/File:Bosch_Jardin_des_delices_detail.jpg]
+
+Remove a card from play.  Also reduce points on side or share by
+card’s points.  Play in its place.
+
+This card affects Tower and Universe, and other cards in their stacks.
+Death removes the card entirely from play, so its effects and points
+no longer affect the game.  In addition, subtract the point value of
+the card from the number of points on its share or side.
+
+
+Devil	XVI
+
+[Watercolor style.  Cthulhu: huge, lidless, expressionless deep-squid
+eye; tentacled and wormy mouthparts; tattered leathery bat wings.]
+
+Move a card stack to each other side from a side.  Play on that side.
+
+Move only as many card stacks as there are other players.  Devil does
+not move, because it does not play until after stacks move.
+
+
+Severity	XVII
+
+[An expedition arrives at the broken remains of another.]
+
+Immediately play under a just-played card.  Each other player
+counter-clockwise replays that card.
+
+Tower does not replay.  A replayed card added to a stack with Tower
+stops replaying.  A player may play Severity to replay other cards,
+and then use other cards to replay Severity, et cetera, only so long
+as the overall game position does not repeat.
+
+
+Tower	XVIII
+
+[Sketch style.  Obelisk with unfamiliar heiroglyphs of activities and
+creatures better left stylized.]
+
+This card stack does not move, replay, or share.
+
+Tower and other cards in its stack may not be moved, passed,
+picked up, replaced, replayed, shared, et cetera, from a stack
+containing Tower.  All such cards may die, or have their effects
+cancelled by Intuition as they are added to a stack containing Tower.
+
+
+Moon	XVIIII
+
+[Watercolor style.  Low tide at pier.  High tide line is mossy, slimy,
+grown with fungoid polyps like those described in Mountains of
+Madness.]
+
+Shuffle and deal a share’s cards to players’ hands.  Play on
+that share.
+
+Pick up all cards on the share.  Play Moon after you deal all the
+other cards, so do not shuffle or deal Moon.
+
+
+Star	XX +
+
+[Sketch style on black background, like a blueprint.  Constellation at
+intersections in old gods sign on badger hoodie.  Faint lines between?]
+
+EACH TURN add one point per card to this share or side.  Groups of 5
+points are arcane.
+
+Points added to a share or side remain with the share or side when
+cards move away.
+
+
+Sun	XXI
+
+[Sketch style.  Desert, high dunes, no life.]
+
+Shuffle and deal a side’s cards to players’ hands.  Play on that side.
+
+Pick up all cards on the side.  Play Sun after you distribute all the
+other cards.  A player may play Sun to replay other cards, and then
+use other cards to replay Sun, et cetera, only so long as the overall
+game position does not repeat.
+
+
+Judgement	XXII
+
+[Cartoon style.  Newly-robed student gleeful, arms wide to churning storm.]
+
+Play to a share.  The share’s players switch hand and position.
+
+The simplest way to do this is to have the two players put face down their
+hand of cards on each side, then get up and sit in each other’s seats.
+Play continues counter-clockwise from the hand that held Judgement,
+so the player who played Judgement might play again, in a different
+position and with a different hand.  If more than two players own the share,
+the player of Judgement chooses which two players switch.
+
+
+World	XXIII
+
+Woodblock style.  A Turkish ney is an Arabian end-blown flute
+consisting of a piece of hollow cane or reed with five or six finger
+holes and one thumb hole.  (The instrument creates a breathy,
+high thin piping for Azathoth.)
+
+Replay all cards from a side.  Play this card on that side.  It does not
+move, replay, or share.
+
+Play Universe after you replay all the other cards, so none of the
+replayed cards are played on Universe.  While the cards are replayed,
+the Universe card is effectively hidden.  Other cards may be moved or
+replayed from a stack containing Universe.  In general, do not move,
+replace, replay, or share Universe.  Any other cards in Universe’s
+stack may be affected by a card, which would separate Universe from a
+card in his stack, or the remainder of his stack.
+
+
+Fool	XXIIII / 0·
+
+[Cartoon style.  A student with a lantern in a dark library.]
+
+x0 This card stack has no point sum.
+XXIIII This card alone.
+
+When played as part of a card stack, multiply the point sum of the
+card stack by zero.  When played alone, on any side or share,
+its point value is 24.  This means that it can’t be combined with any
+other cards and keep its value of 24.
+
+

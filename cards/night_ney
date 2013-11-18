@@ -8,7 +8,6 @@ high thin piping for Azathoth.)
 Replay all cards from a side.  Play this card on that side.  It does not
 move, replay, or share.
 
-
 Play Universe after you replay all the other cards, so none of the
 replayed cards are played on Universe.  While the cards are replayed,
 the Universe card is effectively hidden.  Other cards may be moved or
@@ -16,3 +15,5 @@ replayed from a stack containing Universe.  In general, do not move,
 replace, replay, or share Universe.  Any other cards in Universe’s
 stack may be affected by a card, which would separate Universe from a
 card in his stack, or the remainder of his stack.
+
+

@@ -1,0 +1,2 @@
+cat title ../players ../playarea ../dealplay startplay ../general ../scoring winner > rules
+cat `{grep '	 night_' ../cards/Pindex | sed  's,.*[	 ],,;s,^,../cards/,'} >> rules

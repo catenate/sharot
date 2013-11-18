@@ -5,8 +5,9 @@ Severity	XVII
 Immediately play under a just-played card.  Each other player
 counter-clockwise replays that card.
 
-
 Tower does not replay.  A replayed card added to a stack with Tower
 stops replaying.  A player may play Severity to replay other cards,
 and then use other cards to replay Severity, et cetera, only so long
 as the overall game position does not repeat.
+
+
