@@ -1,0 +1,13 @@
+player clockwise from the dealer plays one of these cards, and saves
+another for their hands.  Gather remaining cards, and shuffle and deal
+them to all players.  Each player may play a card dealt, or one saved
+from a previous round.  Repeat until all cards are played or in hand.
+Play cards from hand until all cards are played.
+
+With five players, short the dealer each round, and rotate dealership
+clockwise each round.  Collect one fewer cards from the dealer,
+unless a different player is short the number of cards to gather,
+due to effects of the cards on hands.  Generally, a reasonably fair
+mechanic is to start from the player clockwise from the dealer,
+and get one card from each player who can provide one, until reaching
+the number of cards to gather.

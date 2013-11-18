@@ -1,0 +1,9 @@
+# mk rules
+
+first all: clean rules
+
+rules: title ../players ../playarea ../dealplay startplay ../general ../scoring winner
+	cat $prereq > $target
+
+clean:
+	rm rules

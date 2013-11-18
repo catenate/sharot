@@ -1,12 +1,13 @@
 Edit ,|sort|uniq
 Edit X/sharot/D
+New draft
 du -n | grep -v '^\.git'
 du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add Aide
 git add .
-git commit -a -m 'Lovers breaks the game with only two players, takes two players out of the game if there’s more than two.  Change first-set lovers effect to instead dump points of cards on each other side.'
+git commit -a -m 'Generate a single rules file.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q

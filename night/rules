@@ -1,0 +1,158 @@
+Sharot: A nightmare in the library.
+
+Play vaguely Lovecraftian tarot cards that manipulate cards affecting
+you and another, or only you, to reduce the influence of cosmic horrors
+and possibly save your sanity.
+
+Number of players.  2–4 players with a shared area between players
+(playtested).  6 players with one shared area (not yet playtested).
+A single player with sufficiently many and independent personalities
+may play against himself.
+
+Play area.  In addition to a side for each player, the playing area
+for 2–4 players consists of a shared area between each player.
+This approach makes the playing area complicated for 6 people.
+In addition, smaller tables don’t well support a large number of shares.
+In these cases, play with one shared area between all players.
+
+Alternative play area.  Instead of shares and sides around players,
+another way to arrange the cards is all in a row of card stacks,
+with markers to indicate which players count the cards in the stack.
+To score, divide the number of arcane points in each stack by the
+number of players who count it.  Each marker and combination of two
+should be represented, to record points on sides and shares.
+
+Setup.  Shuffle and deal half the deck evenly to 2, 3, 4,
+or 6 players.  The remainder comprises a draw pile.
+
+Deal 6 to each of 2 players, leaving 12 for draw pile.
+Deal 4 to each of 3 players, leaving 12 for draw pile.
+Deal 3 to each of 4 players, leaving 12 for draw pile.
+Deal 2 to each of 6 players, leaving 12 for draw pile.
+
+Play and draw.  Each turn, a player plays 1 card from hand and draws 1,
+while there are cards in the draw pile.  Once the draw pile is exhausted,
+each turn a player plays 1 card from hand.  Play continues through
+players with cards in hand, until no player has any cards in hand to play.
+Play proceeds clockwise.
+
+
+For example, with no card effects on hands, deal (2 2 2 2 2 2) cards
+to 6 players, and keep the remainder in a draw pile.
+
+Round 1
+	(2 2 2 2 2 2) in hands, (12) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 2
+	(2 2 2 2 2 2) in hands, (6) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 3
+	(2 2 2 2 2 2) in hands
+	each player plays 1 card from hand
+
+Round 4
+	(1 1 1 1 1 1) in hands
+	each player plays 1 card from hand
+
+
+For example, with no card effects on hands, deal (6 6) cards
+to 2 players, and keep the remainder in a draw pile.
+
+Round 1
+	deal out half of all cards, other half in draw pile
+	(6 6) in hands, (12) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 2
+	(6 6) in hands, (10) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 3
+	(6 6) in hands, (8) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 4
+	(6 6) in hands, (6) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 5
+	(6 6) in hands, (4) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 6
+	(6 6) in hands, (2) in deck
+	each player plays 1 card from hand, and draws 1
+
+Round 7
+	(6 6) in hands
+	each player plays 1 card from hand
+
+Round 8
+	(5 5) in hands
+	each player plays 1 card from hand
+
+Round 9
+	(4 4) in hands
+	each player plays 1 card from hand
+
+Round 10
+	(3 3) in hands
+	each player plays 1 card from hand
+
+Round 11
+	(2 2) in hands
+	each player plays 1 card from hand
+
+Round 12
+	(1 1) in hands
+	each player plays 1 card from hand
+	game over: no cards in hands
+
+
+Start play.  The player with Hermit plays it to any share or side
+she wants.  The player to the right of that player moves the Hermit
+anywhere he wants (since all shares and sides still have the fewest
+number of arcane points, 0), and then plays a card from his hand.
+Each turn.  “Each turn” effects happen at the beginning of the turn,
+in order by increasing card number.
+
+Tactics.  Play cards to (as of the end of the game) minimize arcane
+points on your side and minimize arcane points shared with each
+other player.
+
+Play effects.  Cards may play anywhere unless limited by their
+effects, and specifically may join a stack with effects which limit
+move, replay, or share.  Play as many effects as you can; a card may
+play with no effect.  Follow the order of effects on cards, it usually
+makes a difference.
+
+Stacks.  Cards which affect only one card may attempt to affect a
+single card in a stack, and be prevented by effects which limit move,
+replay, or share.  If a card plays in place of another, and that card
+cannot move, the playing card joins its card stack.
+
+Arcane points.  Each V and X on cards, and each group of 5 points directly
+on a share or side, comprise arcane knowledge, which leads to madness.
+The fewer arcane points you have, the more sane you are.
+
+Scoring sides and shares.  All arcane points on a player’s side count
+towards that player’s score.  Half the arcane points in areas shared
+with one other player count towards a player’s score.  When you need
+to divide an odd number of points by 2, round down.
+
+Scoring a common share.  For one common area, in games of 6 players,
+the number of arcane points in the share which count towards each
+player is the total arcane points divided by the number of players.
+(This should be the most complicated calculation in the game).
+
+Scoring dice.  To keep up with the number of points on a share or
+side, you can use Sharot dice, with sides I, II, III, IIII, V and X.
+Twist I sideways as a negative sign.  Or, use ordinary dice, counting
+the 6 as 10.
+
+Winner.  The goal is to score the least points at the end of the game.
+If your score is less than zero, you actually retain a functioning mind—
+congratulations, you’ll notice when it’s eaten by your alien overlords!
+
