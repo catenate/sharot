@@ -1,0 +1,9 @@
+Tower	XVIII	cardstack addside notonshare sharepoint ownerwins
+
+This card stack can only be on a side.  It is its own side, and shares
+half its points with the larger side it’s on.
+
+If the side of the Tower has the least points at the end of the game,
+then the player of the larger side it’s on wins the game.
+
+Effect tags: 

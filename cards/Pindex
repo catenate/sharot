@@ -1,85 +1,86 @@
-I 	 Master 	 night_buriedsecret
-I 	 Master 	 playtower
-I 	 Master 	 recompense
-I 	 Master 	 replay
-II 	 Priestess 	 night_keziahmason
-II 	 Priestess 	 playpriest
-II + 	 Priestess 	 fewestmore
-II - 	 Priestess 	 famine
-III 	 Emperor 	 night_neanderthal
-III 	 Emperor 	 payshare
-III 	 Emperor 	 playpriestess
-III - 	 Emperor 	 fewestless
-IIII 	 Lovers 	 exchange
-IIII 	 Lovers 	 night_honeymoon
-IIII 	 Lovers 	 playtemperance
-IIII = 	 Lovers 	 marriage
-V 	 Mercy 	 excuse
-V 	 Mercy 	 night_knownoevil
-V 	 Mercy 	 playlovers
-VI 	 Priest 	 night_blackman
-VI 	 Priest 	 playempress
-VI + 	 Priest 	 mostmore
-VI + 	 Priest 	 pestilence
-VII 	 Empress 	 night_innsmouth
-VII 	 Empress 	 payside
-VII 	 Empress 	 playemperor
-VII - 	 Empress 	 mostless
-VIII 	 Chariot 	 night_eldersign
-VIII 	 Chariot 	 playtraitor
-VIII 	 Chariot 	 war
-VIIII 	 Hermit 	 anchorite
-VIIII 	 Hermit 	 night_outsider
-VIIII 	 Hermit 	 playfool
-X 	 Justice 	 clone
-X 	 Justice 	 night_adjustment
-X 	 Justice 	 playseverity
-XI 	 Fortune 	 die
-XI 	 Fortune 	 dieharder
-XI 	 Fortune 	 night_calend
-XI 	 Fortune 	 playmoon
-XI 	 Fortune 	 tornado
-XII 	 Fortitude 	 playchariot
-XII ·2 	 Fortitude 	 night_moar
-XII ·3 	 Fortitude 	 turpitude
-XII ·4 	 Fortitude 	 fortitude
-XIII 	 Traitor 	 playdeath
-XIII 	 Traitor 	 thief
-XIII - 	 Traitor 	 night_flee
-XIIII 	 Temperance 	 intemperance
-XIIII 	 Temperance 	 night_kinginyellow
-XIIII 	 Temperance 	 playmercy
-XV 	 Death 	 night_drownedgiant
-XV 	 Death 	 playdevil
-XV 	 Death 	 scythe
-XVI 	 Devil 	 night_cthulhu
-XVI 	 Devil 	 playfortitude
-XVI 	 Devil 	 sharedpain
-XVII 	 Severity 	 night_recover
-XVII 	 Severity 	 playjudgement
-XVII 	 Severity 	 replays
-XVIII 	 Tower 	 lightning
-XVIII 	 Tower 	 night_obelisk
-XVIII 	 Tower 	 playhermit
-XVIII + 	 Tower 	 research
-XVIIII 	 Moon 	 berserker
-XVIIII 	 Moon 	 night_tidalgrowth
-XVIIII 	 Moon 	 playworld
-XX 	 Star 	 playfortune
-XX + 	 Star 	 algol
-XX + 	 Star 	 night_oldgodsign
-XX + 	 Star 	 source
-XXI 	 Sun 	 night_desolate
-XXI 	 Sun 	 playstar
-XXI - 	 Sun 	 sink
-XXI - 	 Sun 	 sol
-XXII 	 Judgement 	 night_submit
-XXII 	 Judgement 	 playjustice
-XXII 	 Judgement 	 resurrect
-XXIII 	 World 	 around
-XXIII 	 World 	 night_ney
-XXIII 	 World 	 palebluedot
-XXIII 	 World 	 playsun
-XXIIII 	 Fool 	 fanboy
-XXIIII 	 Fool 	 playmagus
-XXIIII / 0· 	 Fool 	 night_curious
+I 	 Master 	 night_buriedsecret 	
+I 	 Master 	 playtower 	
+I 	 Master 	 recompense 	
+I 	 Master 	 replay 	
+II 	 Priestess 	 night_keziahmason 	
+II 	 Priestess 	 playpriest 	
+II+ 	 Priestess 	 fewestmore 	
+II- 	 Priestess 	 famine 	
+III 	 Emperor 	 night_neanderthal 	
+III 	 Emperor 	 payshare 	
+III 	 Emperor 	 playpriestess 	
+III- 	 Emperor 	 fewestless 	
+IIII 	 Lovers 	 exchange 	
+IIII 	 Lovers 	 night_honeymoon 	
+IIII 	 Lovers 	 playtemperance 	
+IIII= 	 Lovers 	 marriage 	
+V 	 Mercy 	 excuse 	
+V 	 Mercy 	 night_knownoevil 	
+V 	 Mercy 	 playlovers 	
+VI 	 Priest 	 night_blackman 	
+VI 	 Priest 	 playempress 	
+VI+ 	 Priest 	 mostmore 	
+VI+ 	 Priest 	 pestilence 	
+VII 	 Empress 	 night_innsmouth 	
+VII 	 Empress 	 payside 	
+VII 	 Empress 	 playemperor 	
+VII- 	 Empress 	 mostless 	
+VIII 	 Chariot 	 night_eldersign 	
+VIII 	 Chariot 	 playtraitor 	
+VIII 	 Chariot 	 war 	
+VIIII 	 Hermit 	 anchorite 	
+VIIII 	 Hermit 	 night_outsider 	
+VIIII 	 Hermit 	 playfool 	
+X 	 Justice 	 clone 	
+X 	 Justice 	 night_adjustment 	
+X 	 Justice 	 playseverity 	
+XI 	 Fortune 	 die 	
+XI 	 Fortune 	 dieharder 	
+XI 	 Fortune 	 night_calend 	
+XI 	 Fortune 	 playmoon 	
+XI 	 Fortune 	 tornado 	
+XII 	 Fortitude 	 playchariot 	
+XIII 	 Traitor 	 playdeath 	
+XIII 	 Traitor 	 thief 	
+XIII- 	 Traitor 	 night_flee 	
+XIIII 	 Temperance 	 intemperance 	
+XIIII 	 Temperance 	 lightning 	
+XIIII 	 Temperance 	 night_kinginyellow 	
+XIIII 	 Temperance 	 playmercy 	
+XII·2 	 Fortitude 	 night_doublet 	
+XII·3 	 Fortitude 	 turpitude 	
+XII·4 	 Fortitude 	 fortitude 	
+XV 	 Death 	 night_drownedgiant 	
+XV 	 Death 	 playdevil 	
+XV 	 Death 	 scythe 	
+XVI 	 Devil 	 night_cthulhu 	
+XVI 	 Devil 	 playfortitude 	
+XVI 	 Devil 	 sharedpain 	
+XVII 	 Severity 	 night_recover 	
+XVII 	 Severity 	 playjudgement 	
+XVII 	 Severity 	 replays 	
+XVIII 	 Tower 	 castle 	 stack newside share win
+XVIII 	 Tower 	 night_obelisk 	
+XVIII 	 Tower 	 playhermit 	
+XVIII+ 	 Tower 	 research 	 eachturn add point V X
+XVIIII 	 Moon 	 berserker 	
+XVIIII 	 Moon 	 night_tidalgrowth 	
+XVIIII 	 Moon 	 playworld 	
+XX 	 Star 	 playfortune 	
+XX+ 	 Star 	 algol 	
+XX+ 	 Star 	 night_oldgodsign 	
+XX+ 	 Star 	 source 	
+XXI 	 Sun 	 night_desolate 	
+XXI 	 Sun 	 playstar 	
+XXI- 	 Sun 	 sink 	
+XXI- 	 Sun 	 sol 	
+XXII 	 Judgement 	 night_submit 	
+XXII 	 Judgement 	 playjustice 	
+XXII 	 Judgement 	 resurrect 	
+XXIII 	 World 	 around 	
+XXIII 	 World 	 night_ney 	
+XXIII 	 World 	 palebluedot 	
+XXIII 	 World 	 playsun 	
+XXIIII 	 Fool 	 fanboy 	
+XXIIII 	 Fool 	 playmagus 	
+XXIIII·0 	 Fool 	 night_curious 	 point sum alone card stack

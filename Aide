@@ -7,7 +7,7 @@ du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add Aide
 git add .
-git commit -a -m 'Add card text and description to rules file.'
+git commit -a -m 'Start adding tags for card effects.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
