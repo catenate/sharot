@@ -1,3 +1,4 @@
+
 A “card stack” is a set of cards played over top of each other so that
 the card name and points remain visible.  Effects which move a “card
 stack” move all cards in the stack.  Effects which move “one card”
@@ -26,3 +27,5 @@ illustrates a layout of 6 shares in a game of 4 players.
 A “side” is an area of the table directly in front of a player, and
 under that player's control.  All the points on a side belong to only
 its player.  There are as many sides as there are players.
+
+

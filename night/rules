@@ -9,18 +9,50 @@ Number of players.  2–4 players with a shared area between players
 A single player with sufficiently many and independent personalities
 may play against himself.
 
-Play area.  In addition to a side for each player, the playing area
-for 2–4 players consists of a shared area between each player.
-This approach makes the playing area complicated for 6 people.
-In addition, smaller tables don’t well support a large number of shares.
-In these cases, play with one shared area between all players.
 
-Alternative play area.  Instead of shares and sides around players,
-another way to arrange the cards is all in a row of card stacks,
-with markers to indicate which players count the cards in the stack.
-To score, divide the number of arcane points in each stack by the
-number of players who count it.  Each marker and combination of two
-should be represented, to record points on sides and shares.
+A “card stack” is a set of cards played over top of each other so that
+the card name and points remain visible.  Effects which move a “card
+stack” move all cards in the stack.  Effects which move “one card”
+remove one particular card from the stack.
+
+“Each turn” effects happen at the beginning of the turn, in order by
+increasing card number.
+
+A “share” is an area of the table between a set (usually a pair)
+of players’ sides, and is under the control of its set of players.
+The points on a share are split evenly (round down) among its
+players.  There are as many shared areas as there sets (usually
+pairs) of players.  One way to arrange sides is as a line of cards
+between the sides of each player, as in the game logo, which
+illustrates a layout of 6 shares in a game of 4 players.
+[Font /fonts/10646/9x15/9x15.font]
+
+	•   ┊   •
+
+	┄   ╳   ┄
+
+	•   ┊   •
+
+	  Sharot
+
+A “side” is an area of the table directly in front of a player, and
+under that player's control.  All the points on a side belong to only
+its player.  There are as many sides as there are players.
+
+
+Play area.  The playing area for 2–4 players consists of a side for
+each player, a shared area between each pair of players, a face-down
+draw pile, and a face-down pile for cards removed from play.
+
+Alternative play area.  This approach makes the playing area
+complicated for 6 people.  In addition, smaller tables don’t well
+support a large number of shares.  In these cases, play with one
+shared area between all players.  Instead of shares and sides around
+players, another way to arrange the cards is all in a row of card
+stacks, with markers to indicate which players count the cards in the
+stack.  To score, divide the number of arcane points in each stack by
+the number of players who count it.  Each marker and combination of
+two should be represented, to record points on sides and shares.
 
 Setup.  Shuffle and deal half the deck evenly to 2, 3, 4,
 or 6 players.  The remainder comprises a draw pile.
@@ -164,7 +196,7 @@ Master	I
 Put a card from your hand face down under this card.  It flips and
 enters play when uncovered.
 
-The face-down card is considered out of play until Magus is no longer
+The face-down card is considered out of play until Master is no longer
 covering the card.  At that point turn it face up, and it enters play
 as if played on that share or side.  Immediate effects and just-played
 effects may be used as it enters and finishes play.
