@@ -25,20 +25,24 @@ VII 	 Empress 	 night_innsmouth
 VII 	 Empress 	 payside 	
 VII 	 Empress 	 playemperor 	
 VII- 	 Empress 	 mostless 	
+VIII 	 Chariot 	 basic_chariot 	 playonshare movecardtoside
 VIII 	 Chariot 	 night_eldersign 	
 VIII 	 Chariot 	 playtraitor 	
 VIII 	 Chariot 	 war 	
 VIIII 	 Hermit 	 anchorite 	
-VIIII 	 Hermit 	 night_outsider 	
+VIIII 	 Hermit 	 basic_hermit 	 playonfewestside
+VIIII 	 Hermit 	 night_outsider 	 immediate playfirst eachturn movetofewest
 VIIII 	 Hermit 	 playfool 	
+X 	 Justice 	 basic_justice 	 playonfewestshare
 X 	 Justice 	 clone 	
 X 	 Justice 	 night_adjustment 	
 X 	 Justice 	 playseverity 	
-XI 	 Fortune 	 die 	
-XI 	 Fortune 	 dieharder 	
+XI 	 Fortune 	 basic_fortune 	 roll addpoints
 XI 	 Fortune 	 night_calend 	
 XI 	 Fortune 	 playmoon 	
+XI 	 Fortune 	 rolls 	
 XI 	 Fortune 	 tornado 	
+XII 	 Fortitude 	 basic_fortitude 	 playonstack
 XII 	 Fortitude 	 playchariot 	
 XIII 	 Traitor 	 playdeath 	
 XIII 	 Traitor 	 thief 	
@@ -50,7 +54,8 @@ XIIII 	 Temperance 	 playmercy
 XII·2 	 Fortitude 	 night_doublet 	
 XII·3 	 Fortitude 	 turpitude 	
 XII·4 	 Fortitude 	 fortitude 	
-XV 	 Death 	 night_drownedgiant 	
+XV 	 Death 	 basic_death 	 killcard
+XV 	 Death 	 night_drownedgiant 	 killcard subpoints replacecard
 XV 	 Death 	 playdevil 	
 XV 	 Death 	 scythe 	
 XVI 	 Devil 	 night_cthulhu 	
@@ -59,8 +64,9 @@ XVI 	 Devil 	 sharedpain
 XVII 	 Severity 	 night_recover 	
 XVII 	 Severity 	 playjudgement 	
 XVII 	 Severity 	 replays 	
-XVIII 	 Tower 	 castle 	 stack newside share win
-XVIII 	 Tower 	 night_obelisk 	
+XVIII 	 Tower 	 basic_tower 	 card nomove noreplay noshare
+XVIII 	 Tower 	 castle 	 cardstack addside notonshare sharepoint ownerwins
+XVIII 	 Tower 	 night_obelisk 	 cardstack nomove noreplay noshare
 XVIII 	 Tower 	 playhermit 	
 XVIII+ 	 Tower 	 research 	 eachturn add point V X
 XVIIII 	 Moon 	 berserker 	
@@ -83,4 +89,5 @@ XXIII 	 World 	 palebluedot
 XXIII 	 World 	 playsun 	
 XXIIII 	 Fool 	 fanboy 	
 XXIIII 	 Fool 	 playmagus 	
+XXIIII/0 	 Fool 	 basic_fool 	 varywhereplayed
 XXIIII·0 	 Fool 	 night_curious 	 point sum alone card stack
