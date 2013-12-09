@@ -7,7 +7,7 @@ du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add Aide
 git add .
-git commit -a -m 'Add basic effects to work with draw pile.'
+git commit -a -m 'Better explain covered-card mechanism.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
