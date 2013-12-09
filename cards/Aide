@@ -3,14 +3,15 @@ Edit B < grep -l '^Fool' [a-z]*
 Edit B < ls night_*
 Edit X/play*/D
 Edit s,play,,g
-New basic_death
+New basic_emperor
 apply {file=$1; (name points tags) = `{sed -n 1p $file}; echo $points '	' $name '	' $file '	' $tags} `{ls [a-z]*} | sort > Pindex
 cp night_curious basic_fool
 grep 'difference' *
+grep Fortitude Pindex
 grep basic_ Pindex
 grep night_ Pindex
-grep Fortitude Pindex
 grep point Pindex
 ls -F | mc
+mv  basic_priest basic_empress
 mv basic_roll basic_fortune
 touch fool master priestess priest emperor empress mercy lovers chariot hermit justice fortune fortitude traitor temperance death devil severity tower moon star sun judgement world

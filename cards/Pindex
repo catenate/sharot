@@ -6,6 +6,7 @@ II 	 Priestess 	 night_keziahmason
 II 	 Priestess 	 playpriest 	
 II+ 	 Priestess 	 fewestmore 	
 II- 	 Priestess 	 famine 	
+III 	 Emperor 	 basic_emperor 	 movecardtodraw shuffle
 III 	 Emperor 	 night_neanderthal 	
 III 	 Emperor 	 payshare 	
 III 	 Emperor 	 playpriestess 	
@@ -21,6 +22,7 @@ VI 	 Priest 	 night_blackman
 VI 	 Priest 	 playempress 	
 VI+ 	 Priest 	 mostmore 	
 VI+ 	 Priest 	 pestilence 	
+VII 	 Empress 	 basic_empress 	 drawplaycard
 VII 	 Empress 	 night_innsmouth 	
 VII 	 Empress 	 payside 	
 VII 	 Empress 	 playemperor 	
