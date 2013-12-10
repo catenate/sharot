@@ -1,3 +1,4 @@
+../Aide
 Edit ,|sort|uniq
 Edit B < grep -l '^Fool' [a-z]*
 Edit B < ls night_*
