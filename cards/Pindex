@@ -1,32 +1,33 @@
-I 	 Master 	 night_buriedsecret 	
+I 	 Master 	 night_buriedsecret 	 covercard uncoverplay sideowner
 I 	 Master 	 playtower 	
 I 	 Master 	 recompense 	
 I 	 Master 	 replay 	
 II 	 Priestess 	 night_keziahmason 	
 II 	 Priestess 	 playpriest 	
-II+ 	 Priestess 	 fewestmore 	
+II+ 	 Priestess 	 stars_fewestmore 	
 II- 	 Priestess 	 famine 	
 III 	 Emperor 	 basic_emperor 	 movecardtodraw shuffle
 III 	 Emperor 	 night_neanderthal 	
 III 	 Emperor 	 payshare 	
 III 	 Emperor 	 playpriestess 	
-III- 	 Emperor 	 fewestless 	
+III- 	 Emperor 	 stars_fewestless 	
 IIII 	 Lovers 	 exchange 	
-IIII 	 Lovers 	 night_honeymoon 	
+IIII 	 Lovers 	 night_hands 	 sharehands
 IIII 	 Lovers 	 playtemperance 	
-IIII= 	 Lovers 	 marriage 	
+IIII 	 Lovers 	 stars_honeymoon 	 addcardpoints
+IIII= 	 Lovers 	 basic_marriage 	 sharecardpoints
 V 	 Mercy 	 excuse 	
 V 	 Mercy 	 night_knownoevil 	
 V 	 Mercy 	 playlovers 	
 VI 	 Priest 	 night_blackman 	
 VI 	 Priest 	 playempress 	
-VI+ 	 Priest 	 mostmore 	
 VI+ 	 Priest 	 pestilence 	
+VI+ 	 Priest 	 stars_mostmore 	
 VII 	 Empress 	 basic_empress 	 drawplaycard
 VII 	 Empress 	 night_innsmouth 	
 VII 	 Empress 	 payside 	
 VII 	 Empress 	 playemperor 	
-VII- 	 Empress 	 mostless 	
+VII- 	 Empress 	 stars_mostless 	
 VIII 	 Chariot 	 basic_chariot 	 playonshare movecardtoside
 VIII 	 Chariot 	 night_eldersign 	
 VIII 	 Chariot 	 playtraitor 	
@@ -42,13 +43,15 @@ X 	 Justice 	 playseverity
 XI 	 Fortune 	 basic_fortune 	 roll addpoints
 XI 	 Fortune 	 night_calend 	
 XI 	 Fortune 	 playmoon 	
-XI 	 Fortune 	 rolls 	
+XI 	 Fortune 	 stars_rolls 	
 XI 	 Fortune 	 tornado 	
 XII 	 Fortitude 	 basic_fortitude 	 playonstack
 XII 	 Fortitude 	 playchariot 	
+XII 	 Fortitude 	 stars_full 	 doublepoints share side
+XIII 	 Traitor 	 basic_traitor 	 movecardtohand
 XIII 	 Traitor 	 playdeath 	
-XIII 	 Traitor 	 thief 	
-XIII- 	 Traitor 	 night_flee 	
+XIII- 	 Traitor 	 night_flee 	 negatepointsum cardstack
+XIII- 	 Traitor 	 stars_fall 	 negateeffectpoints cardstack
 XIIII 	 Temperance 	 intemperance 	
 XIIII 	 Temperance 	 lightning 	
 XIIII 	 Temperance 	 night_kinginyellow 	
@@ -57,12 +60,13 @@ XII·2 	 Fortitude 	 night_doublet
 XII·3 	 Fortitude 	 turpitude 	
 XII·4 	 Fortitude 	 fortitude 	
 XV 	 Death 	 basic_death 	 killcard
-XV 	 Death 	 night_drownedgiant 	 killcard subpoints replacecard
+XV 	 Death 	 night_drownedgiant 	 killcardstack
 XV 	 Death 	 playdevil 	
-XV 	 Death 	 scythe 	
+XV 	 Death 	 stars_scythe 	 killcard subpoints replacecard
 XVI 	 Devil 	 night_cthulhu 	
 XVI 	 Devil 	 playfortitude 	
-XVI 	 Devil 	 sharedpain 	
+XVI 	 Devil 	 stars_redist 	 movepoints
+XVI 	 Devil 	 stars_sharedpain 	 addpointstoothersides
 XVII 	 Severity 	 night_recover 	
 XVII 	 Severity 	 playjudgement 	
 XVII 	 Severity 	 replays 	

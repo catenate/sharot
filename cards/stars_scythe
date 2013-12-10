@@ -1,0 +1,13 @@
+Death	XV	killcard subpoints replacecard
+
+[A sickle reaping wheat.]
+
+Remove a card from play.  Also reduce points on side or share by
+card’s points.  Play in its place.
+
+This card affects Tower and World, and other cards in their stacks.
+Death removes the card entirely from play, so its effects and points
+no longer affect the game.  In addition, subtract the point value of
+the card from the number of points on its share or side.
+
+

@@ -1,7 +1,6 @@
-Lovers	IIII=
+Lovers	IIII=	sharecardpoints
 
-Share between two players.  They share points of their side cards.
-
+Play on a share.  The share’s players share points of all side cards.
 
 Their side cards are not moved to the shared area, so any card which
 moves away Lovers cancels the point sharing.

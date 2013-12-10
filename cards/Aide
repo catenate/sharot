@@ -11,7 +11,9 @@ grep Fortitude Pindex
 grep basic_ Pindex
 grep night_ Pindex
 grep point Pindex
+grep stars_ Pindex
 ls -F | mc
 mv  basic_priest basic_empress
 mv basic_roll basic_fortune
 touch fool master priestess priest emperor empress mercy lovers chariot hermit justice fortune fortitude traitor temperance death devil severity tower moon star sun judgement world
+web http://boardgamegeek.com/browse/boardgamemechanic

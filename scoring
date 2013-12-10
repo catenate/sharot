@@ -5,7 +5,8 @@ The fewer arcane points you have, the more sane you are.
 Scoring sides and shares.  All arcane points on a player’s side count
 towards that player’s score.  Half the arcane points in areas shared
 with one other player count towards a player’s score.  When you need
-to divide an odd number of points by 2, round down.
+to divide an odd number of points by 2, round down.  Points on a share
+or side can go negative, e.g. to offset points from cards.
 
 Scoring a common share.  For one common area, in games of 6 players,
 the number of arcane points in the share which count towards each
