@@ -1,7 +1,8 @@
 I 	 Master 	 night_buriedsecret 	 covercard uncoverplay sideowner
 I 	 Master 	 playtower 	
-I 	 Master 	 recompense 	
+I 	 Master 	 recompense 	 subtractpoints eachcard move replay share
 I 	 Master 	 replay 	
+II 	 Priestess 	 basic_priestess 	 nosubtractpoints
 II 	 Priestess 	 night_keziahmason 	
 II 	 Priestess 	 playpriest 	
 II+ 	 Priestess 	 stars_fewestmore 	
@@ -19,6 +20,7 @@ IIII= 	 Lovers 	 basic_marriage 	 sharecardpoints
 V 	 Mercy 	 excuse 	
 V 	 Mercy 	 night_knownoevil 	
 V 	 Mercy 	 playlovers 	
+VI 	 Priest 	 basic_priest 	 noaddpoints
 VI 	 Priest 	 night_blackman 	
 VI 	 Priest 	 playempress 	
 VI+ 	 Priest 	 pestilence 	
