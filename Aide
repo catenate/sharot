@@ -7,7 +7,7 @@ du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add Aide
 git add .
-git commit -a -m 'Limit point increases/decreases on a share or side.  Should be part of stars?'
+git commit -a -m 'Note new style of play.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q

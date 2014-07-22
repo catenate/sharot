@@ -5,3 +5,39 @@ deck not held by players should play itself.
 Since there is hidden information (the cards in players’ hands), and
 cards go in and out of players’ hands during the game, I’m not sure
 how well that would translate to remote play.
+
+Wheel teens?: Replace with this card a card in play.  Take into your
+hand the replaced card.
+
+Death XIII: Replace with this card a card in play.  Remove from play
+the replaced card.
+
+Replace with this card a card in play.  Shuffle into the draw pile the
+replaced card.
+
+cheap: Replace with this card a card in play.  Put into another’s hand
+the replaced card.
+
+Tower: This card may not be replaced or moved.
+
+Chariot VIII: Move a card in play to another side.  Play this on your side.
+
+
+24 cards.  Start with one card down and out of play.  Deal 12 cards
+among players.  Remaining 11 cards face-down in draw pile.
+Player to left of dealer plays first: (1a) if any cards in hand, then
+play and activate one held card, controlled by player, otherwise
+(1b) activate one card controlled by player; then (2) draw one card.
+All cards play into a common area, with bottom text area rotated to
+point at controlling player.  At end of each player’s turn, number of
+cards that player still controls is added to player’s score.  Skip players
+with no cards in-hand or controlled.  When no player has any cards
+in-hand and playable, the game ends.  Player with lowest score wins.
+
+Generally, cards alter accumulating score to balance advantage beyond
+accumulating score: cards that unduly increase number of cards on
+controller’s side lower score; cards that unduly decrease the number
+of cards on a controller’s side raise score; cards with constant
+(don’t need activated again) effects raise and lower controller’s
+score at end of each of the controlling player’s turn, whether or not
+activated for any additional effects.
