@@ -1,3 +1,4 @@
+.
 Edit ,|sort|uniq
 Edit X/sharot/D
 New draft
@@ -5,9 +6,9 @@ du -n | grep -v '^\.git'
 du -n | grep Aide
 du | sed 's,^.* ,,' | grep -v '^\.git'
 git
+git add --all .
 git add Aide
-git add .
-git commit -a -m 'Note new style of play.'
+git commit -a -m 'Add mudslinging theme.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
