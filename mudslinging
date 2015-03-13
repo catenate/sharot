@@ -39,3 +39,19 @@ volunteer brigade
 (talk show) interview
 (tell-all) book
 investigative journalism
+
+Each player has an area of the table directly in front of him that
+represents his reputation.  Each pair of players adjacent clockwise
+and counter-clockwise also have areas between them, which represent
+their associations.  Each reputation and association area can host
+cards and counters, which represent damage to their reputatations or
+associations.  The count of this damage can only be positive.  The
+winner is the player at the end of the game with the lowest total
+damage to their reputations and associations.  The count of damage to
+a reputation is the sum of the value on each card in the reputation
+area, and the count directly in the reputation area itself.  The full
+value of reputation damage counts against the reputation of its
+player.  Likewise, the count of damage to an association is the sum of
+the value on each card in the association area, and the count directly
+in the association area itself.  Half the count of damage to an
+association is added to each of the association’s players.

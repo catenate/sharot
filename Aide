@@ -8,7 +8,7 @@ du | sed 's,^.* ,,' | grep -v '^\.git'
 git
 git add --all .
 git add Aide
-git commit -a -m 'Add mudslinging theme.'
+git commit -a -m 'Describe play area in terms of reputation and associations.'
 git diff
 git fetch
 git log --decorate --graph --oneline --all | sed 10q
